@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-For work-related or any other requests, please feel free to contact (naohitot523@gmail.com)[mailto:naohitot523@gmail.com]
+For work-related or any other requests, please feel free to contact[naohitot523@gmail.com]
 
 write React, Vue, Node, Java, Python or some other languages and create good developer experience repositories
 
