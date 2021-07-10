@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+For work-related or any other requests, please feel free to contact
+
+write React, Vue, Node, Java, Python or some other languages and create good developer experience repositories
+
+and manage/organize teams.
+
+In the future, I will be the one who manages the team and leads the business to success.
+
+Articles
+in the prodcess of writing🙇
+
+Profile
+in the prodcess of writing🙇
+
+Portfolio
+in the making🌱
