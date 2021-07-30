@@ -40,5 +40,5 @@ in the making🌱
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=naohito-T&count_private=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naohito-T&thema=tokyonight&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naohito-T&theme=tokyonight" />
 </a>
