@@ -25,7 +25,7 @@ In the future, I will be the one who manages the team and leads the business to 
 
 ### Articles
 
-in the prodcess of writing🙇
+[zenn](https://zenn.dev/naohito_t)
 
 ### Profile
 
