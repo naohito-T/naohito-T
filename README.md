@@ -33,7 +33,8 @@ in the prodcess of writing🙇
 
 ### Portfolio
 
-in the making🌱
+🔱firebase hosting🔱
+[https://naohito-t-portfolio.web.app](https://naohito-t-portfolio.web.app)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
