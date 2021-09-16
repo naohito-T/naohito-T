@@ -33,7 +33,7 @@ in the prodcess of writing🙇
 
 ### Portfolio
 
-🔱firebase hosting🔱
+🔱firebase hosting🔱<br/>
 [https://naohito-t-portfolio.web.app](https://naohito-t-portfolio.web.app)
 
 
