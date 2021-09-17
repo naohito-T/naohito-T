@@ -23,15 +23,15 @@ and manage/organize teams.
 
 In the future, I will be the one who manages the team and leads the business to success.
 
-### Articles
+## Articles
 
 [https://zenn.dev/naohito_t](https://zenn.dev/naohito_t)
 
-### Profile
+## Skill
 
 in the prodcess of writing🙇
 
-### Portfolio
+## Portfolio
 
 🔱firebase hosting🔱<br/>
 [https://naohito-t-portfolio.web.app](https://naohito-t-portfolio.web.app)
