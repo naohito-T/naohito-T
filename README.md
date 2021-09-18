@@ -49,9 +49,11 @@ myport folio
 
 ## 🔱 Git Stats
 
+<div style="margin-bottom: 10px;">
 <a href="https://github-profile-trophy.vercel.app">
-  <img style="margin-bottom: 10px;" src="https://github-profile-trophy.vercel.app/?username=naohito-T&column=7&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=naohito-T&column=7&theme=onedark&hide_border=true" />
 </a>
+</div>
 <a href="http://github-readme-streak-stats.herokuapp.com">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=naohito-T&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </a>
