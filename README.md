@@ -50,16 +50,18 @@ myport folio
 ## 🔱 Git Stats
 
 <div style="margin-bottom: 10px;">
-<a href="https://github-profile-trophy.vercel.app">
-  <img src="https://github-profile-trophy.vercel.app/?username=naohito-T&column=7&theme=onedark&hide_border=true" />
-</a>
+  <a href="https://github-profile-trophy.vercel.app">
+    <img src="https://github-profile-trophy.vercel.app/?username=naohito-T&column=7&theme=onedark&hide_border=true" />
+  </a>
 </div>
-<a href="http://github-readme-streak-stats.herokuapp.com">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=naohito-T&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naohito-T&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=naohito-T&count_private=true&theme=tokyonight&hide_border=true" />
-</a>
+<div style="margin-top: 10px;">
+  <a href="http://github-readme-streak-stats.herokuapp.com">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=naohito-T&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naohito-T&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=naohito-T&count_private=true&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
