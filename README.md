@@ -47,6 +47,8 @@ myport folio
 [https://zenn.dev/naohito_t](https://zenn.dev/naohito_t)
 
 
+## 🔱 Git Stats
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-profile-trophy.vercel.app/?username=naohito-T&column=7&count_private=true&theme=tokyonight" />
 </a>
