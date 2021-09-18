@@ -23,18 +23,28 @@ and manage/organize teams.
 
 In the future, I will be the one who manages the team and leads the business to success.
 
-## Articles
+## 🧑🏻‍💻　自己紹介
 
-[https://zenn.dev/naohito_t](https://zenn.dev/naohito_t)
+🚧🚧🚧　WIP　🚧🚧🚧
 
+creaters - Creaters主催
+
+link - in the prodcess of writing🙇
 ## Skill
+
+
 
 in the prodcess of writing🙇
 
 ## Portfolio
 
-🔱firebase hosting🔱<br/>
-[https://naohito-t-portfolio.web.app](https://naohito-t-portfolio.web.app)
+myport folio
+ポートフォリオ
+- [https://naohito-t-portfolio.web.app](https://naohito-t-portfolio.web.app)
+
+## 🔗 Articles
+
+[https://zenn.dev/naohito_t](https://zenn.dev/naohito_t)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
