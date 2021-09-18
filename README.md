@@ -48,6 +48,9 @@ myport folio
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=naohito-T&column=7&count_private=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=naohito-T&count_private=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
