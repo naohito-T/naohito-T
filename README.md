@@ -51,7 +51,7 @@ myport folio
 
 <div style="margin-bottom: 10px;">
   <a href="https://github-profile-trophy.vercel.app">
-    <img src="https://github-profile-trophy.vercel.app/?username=naohito-T&column=7&theme=onedark&hide_border=true" />
+    <img src="https://github-profile-trophy.vercel.app/?username=naohito-T&column=7&theme=onedark&no-frame=true&margin-w=10" />
   </a>
 </div>
 <br/>
