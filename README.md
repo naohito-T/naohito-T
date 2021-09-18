@@ -23,31 +23,31 @@ and manage/organize teams.
 
 In the future, I will be the one who manages the team and leads the business to success.
 
-## 🧑🏻‍💻　自己紹介
+## 🧑🏻‍💻  自己紹介
 
 🚧🚧🚧　WIP　🚧🚧🚧
 
 creaters - Creaters主催
 
 link - in the prodcess of writing🙇
-## Skill
+## 🍀  Skill
 
 
 
 in the prodcess of writing🙇
 
-## Portfolio
+## 🗽  Portfolio
 
 myport folio
 ポートフォリオ
 - [https://naohito-t-portfolio.web.app](https://naohito-t-portfolio.web.app)
 
-## 🔗 Articles
+## 🔗  Articles
 
 [https://zenn.dev/naohito_t](https://zenn.dev/naohito_t)
 
 
-## 🔱 Git Stats
+## 🔱  Git Stats
 
 <div style="margin-bottom: 10px;">
   <a href="https://github-profile-trophy.vercel.app">
