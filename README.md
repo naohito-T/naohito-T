@@ -36,6 +36,8 @@ link - in the prodcess of writing🙇
 
 in the prodcess of writing🙇
 
+趣味: WebGL
+
 ## 🗽  Portfolio
 
 myport folio
