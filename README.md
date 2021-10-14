@@ -27,8 +27,6 @@ In the future, I will be the one who manages the team and leads the business to 
 
 🚧🚧🚧　WIP　🚧🚧🚧
 
-creaters - Creaters主催
-
 link - in the prodcess of writing🙇
 ## 🍀  Skill
 
