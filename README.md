@@ -40,7 +40,7 @@ Hobbys: animation
 
 myport folio
 ポートフォリオ
-- [https://naohito-t-portfolio.web.app](https://naohito-t-portfolio.web.app)
+[https://naohito-t-portfolio.web.app](https://naohito-t-portfolio.web.app)
 
 ## 🔗  Articles
 
