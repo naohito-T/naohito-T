@@ -22,7 +22,7 @@ write React, Vue, Node, Java, Python or some other languages and create good dev
 and manage/organize teams.
 
 In the future, I will be the one who manages the team and leads the business to success.
-
+<!-- 
 ## 🧑🏻‍💻  自己紹介
 
 🚧🚧🚧　WIP　🚧🚧🚧
@@ -43,7 +43,7 @@ Hobbys: animation
 ## 🔗  Articles
 
 [https://zenn.dev/naohito_t](https://zenn.dev/naohito_t)
-
+-->
 
 ## 🔱  Git Stats
 
