@@ -64,10 +64,14 @@ Hobbys: animation
     <img src="https://github-profile-trophy.vercel.app/?username=naohito-T&column=7&theme=onedark&no-frame=true&margin-w=10" />
   </a>
 </div>
+
 <br/>
 <div style="margin-top: 10px;">
+  <!--  MostUsed Language  -->
   <a href="http://github-readme-streak-stats.herokuapp.com">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=naohito-T&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<!--     <img src="http://github-readme-streak-stats.herokuapp.com?user=naohito-T&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=naohito-T&hide=JavaScript&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naohito-T&theme=tokyonight&hide_border=true" />
