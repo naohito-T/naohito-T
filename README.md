@@ -1,8 +1,34 @@
+<p align="left">
+  <a href="https://github.com/naohito-T/naohito-T/">
+    <img src="https://komarev.com/ghpvc/?username=naohito-T" alt="naohito-T" />
+  </a>
+  <a href="http://twitter.com/naohito-T">
+    <img height="20" src="https://img.shields.io/twitter/follow/naohito-T?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/naohito-T">
+    <img height="20" src="https://img.shields.io/github/followers/naohito-T?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://www.reddit.com/user/naohito-T">
+    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/naohito-T?label=Reddit&logo=reddit&style=flat" />
+  </a>
+  <a href="https://stackoverflow.com/users/5720201/naohito-T">
+    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
+  </a>
+  <a href="http://qiita.com/naohito-T">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/naohito-T/posts.svg" />
+  </a>
+  <//qiita.com/naohito-T">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/naohito-T/contributions.svg" />
+  </a>
+</p>
+
 ```sh
 ###############################################################################################################
 ################################          Welcome to nahito-T Project          ################################
 ###############################################################################################################
 ```
+
+
 
 ### Hi there 👋
 
