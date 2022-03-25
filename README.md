@@ -17,7 +17,7 @@
   <a href="http://qiita.com/naohito-T">
     <img height="20" src="https://qiita-badge.apiapi.app/s/naohito-T/posts.svg" />
   </a>
-  <//qiita.com/naohito-T">
+  <a>
     <img height="20" src="https://qiita-badge.apiapi.app/s/naohito-T/contributions.svg" />
   </a>
 </p>
