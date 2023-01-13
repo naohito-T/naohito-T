@@ -54,28 +54,24 @@ Hobbys: animation
 𝑅𝑜𝑜𝑡𝑠 𝑖𝑠 𝑎 ℎ𝑎𝑖𝑟𝑑𝑟𝑒𝑠𝑠𝑒𝑟'𝑠 𝑒𝑛𝑔𝑖𝑛𝑒𝑒𝑟.  
 𝐼 𝑎𝑚 𝑎𝑛 𝑒𝑛𝑔𝑖𝑛𝑒𝑒𝑟 𝑓𝑟𝑜𝑚 𝐽𝑎𝑝𝑎𝑛.  
 
+### 👨🏻‍💻 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬
+
 ### 🔭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 𝐰𝐢𝐭𝐡 𝐌𝐲 𝐖𝐨𝐫𝐤
 
 <!-- 総合案内所 -->
 **My Project General Information Center**  
-[General Information Center at nahito-T](https://naohito-t.github.io)
+[General Information Center at nahito-T](https://naohito-t.github.io/)
 
 <!-- 各項目 -->
 **Click here for each item**
 
-- Portfolio  
-WIP
+- 🗽 Portfolio:&nbsp;&nbsp; WIP
+- 📈 My Blog:&nbsp;&nbsp;[moderato](https://moderato.vercel.app/)
+- 📕 Knowledge book:&nbsp;&nbsp;[Naopedia](https://naohito-t.github.io/naopedia/)
 
-- My Blog  
-[My Blog](moderato.vercel.app)
+### 🌱 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐎𝐒𝐒
 
-- Knowledge book  
-[Naopedia](naohito-T.github.io/naopedia/)
-
-### 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐎𝐒𝐒
-
-- My OSS Project  
-[My OSS Project](https://github.com/naohito-T-org)
+- My OSS Project:&nbsp;&nbsp;[naohito-T-org](https://github.com/naohito-T-org)
 
 ### 📫 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞
 
