@@ -1,12 +1,4 @@
-<head>
-<link href='https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:ital@1&display=swap' rel='stylesheet' />
-</head>
-
 <!--
-**naohito-T/naohito-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -17,46 +9,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- badge -->
+<p align="right">
+  <a href="https://github.com/naohito-T/naohito-T/">
+    <img src="https://komarev.com/ghpvc/?username=naohito-T" alt="naohito-T" />
+  </a>
+  <a href="https://github.com/naohito-T">
+    <img height="20" src="https://img.shields.io/github/followers/naohito-T?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+
+<!-- animation text -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+naohito-T....;From+Tokyo,+Japan&center=true&size=30">
   </a>
 </h1>
 
+### 💬 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞
 
-<p align="left">
-  <a href="https://github.com/naohito-T/naohito-T/">
-    <img src="https://komarev.com/ghpvc/?username=naohito-T" alt="naohito-T" />
-  </a>
-  <a href="http://twitter.com/naohito-T">
-    <img height="20" src="https://img.shields.io/twitter/follow/naohito-T?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="https://github.com/naohito-T">
-    <img height="20" src="https://img.shields.io/github/followers/naohito-T?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="https://www.reddit.com/user/naohito-T">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/naohito-T?label=Reddit&logo=reddit&style=flat" />
-  </a>
-  <a href="https://stackoverflow.com/users/5720201/naohito-T">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
-  </a>
-  <a href="http://qiita.com/naohito-T">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/naohito-T/posts.svg" />
-  </a>
-  <a>
-    <img height="20" src="https://qiita-badge.apiapi.app/s/naohito-T/contributions.svg" />
-  </a>
-</p>
+
+### 🔭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 𝐰𝐢𝐭𝐡 𝐌𝐲 𝐖𝐨𝐫𝐤
 
 
 
-For work-related or any other requests, please feel free to contact[naohitot523@gmail.com]
+### 📫 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞
 
-write React, Vue, Node, Java, Python or some other languages and create good developer experience repositories
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/naohito___t)&nbsp;
+[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/localhost.naohito/)&nbsp;&nbsp;
+<a href="mailto:naohito.tanaka0523@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
-and manage/organize teams.
-
-In the future, I will be the one who manages the team and leads the business to success.
 <!--
 ## 🧑🏻‍💻  自己紹介
 
@@ -82,7 +64,7 @@ Hobbys: animation
 
 
 <details>
-  <summary style="font-family: Bebas Neue, sans-serif; font-size: 20px">🔱 GitHub Stats</summary>
+  <summary style="font-size: 20px">🔱 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬</summary>
   <div style="margin-bottom: 10px;">
     <a href="https://github-profile-trophy.vercel.app">
       <img src="https://github-profile-trophy.vercel.app/?username=naohito-T&column=7&theme=onedark&no-frame=true&margin-w=10" />
