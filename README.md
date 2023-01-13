@@ -7,6 +7,28 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 🧑🏻‍💻  自己紹介
+
+🚧🚧🚧　WIP　🚧🚧🚧
+
+link - in the prodcess of writing🙇
+## 🍀  Skill
+
+
+
+in the prodcess of writing🙇
+
+Hobbys: animation
+
+## 🗽  Portfolio
+
+[https://naohito-t-portfolio.web.app](https://naohito-t-portfolio.web.app)
+
+## 🔗  Articles
+
+[https://zenn.dev/naohito_t](https://zenn.dev/naohito_t)
+
 -->
 
 <!-- badge -->
@@ -35,47 +57,33 @@
 ### 🔭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 𝐰𝐢𝐭𝐡 𝐌𝐲 𝐖𝐨𝐫𝐤
 
 <!-- 総合案内所 -->
-𝐶𝑙𝑖𝑐𝑘 ℎ𝑒𝑟𝑒 𝑓𝑜𝑟 𝑚𝑦 𝑝𝑟𝑜𝑗𝑒𝑐𝑡 𝑔𝑒𝑛𝑒𝑟𝑎𝑙 𝑖𝑛𝑓𝑜𝑟𝑚𝑎𝑡𝑖𝑜𝑛 𝑐𝑒𝑛𝑡𝑒𝑟.  [General Information Center at nahito-T](https://naohito-t.github.io)
+**My Project General Information Center**  
+[General Information Center at nahito-T](https://naohito-t.github.io)
 
 <!-- 各項目 -->
-Click here for each item
+**Click here for each item**
 
+- Portfolio  
+WIP
+
+- My Blog  
+[My Blog](moderato.vercel.app)
+
+- Knowledge book  
+[Naopedia](naohito-T.github.io/naopedia/)
 
 ### 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐎𝐒𝐒
 
-
+- My OSS Project  
+[My OSS Project](https://github.com/naohito-T-org)
 
 ### 📫 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞
 
-𝑐𝑜𝑛𝑡𝑎𝑐𝑡 𝑚𝑒 𝑖𝑓 𝑦𝑜𝑢 ℎ𝑎𝑣𝑒 𝑠𝑎𝑚𝑒 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝑖𝑛𝑔 𝑜𝑟 𝑠𝑜𝑚𝑒 𝑞𝑢𝑒𝑠𝑡𝑖𝑜𝑛𝑠!
+contact me if you have same interesting or some questions!
 
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/naohito___t)&nbsp;
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/localhost.naohito/)&nbsp;&nbsp;
 <a href="mailto:naohito.tanaka0523@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
-
-<!--
-## 🧑🏻‍💻  自己紹介
-
-🚧🚧🚧　WIP　🚧🚧🚧
-
-link - in the prodcess of writing🙇
-## 🍀  Skill
-
-
-
-in the prodcess of writing🙇
-
-Hobbys: animation
-
-## 🗽  Portfolio
-
-[https://naohito-t-portfolio.web.app](https://naohito-t-portfolio.web.app)
-
-## 🔗  Articles
-
-[https://zenn.dev/naohito_t](https://zenn.dev/naohito_t)
--->
-
 
 <details>
   <summary style="font-size: 20px">🔱 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬</summary>
