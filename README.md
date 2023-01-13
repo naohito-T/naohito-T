@@ -28,12 +28,17 @@
 
 ### 💬 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞
 
+𝐻𝑖 𝑔𝑢𝑦𝑠, 𝐼'𝑚 𝑁𝑎𝑜𝑖ℎ𝑡𝑜-𝑇!
+𝑅𝑜𝑜𝑡𝑠 𝑖𝑠 𝑎 ℎ𝑎𝑖𝑟𝑑𝑟𝑒𝑠𝑠𝑒𝑟'𝑠 𝑒𝑛𝑔𝑖𝑛𝑒𝑒𝑟.
+𝐼 𝑎𝑚 𝑎𝑛 𝑒𝑛𝑔𝑖𝑛𝑒𝑒𝑟 𝑓𝑟𝑜𝑚 𝐽𝑎𝑝𝑎𝑛.
 
 ### 🔭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 𝐰𝐢𝐭𝐡 𝐌𝐲 𝐖𝐨𝐫𝐤
 
 
 
 ### 📫 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞
+
+𝑐𝑜𝑛𝑡𝑎𝑐𝑡 𝑚𝑒 𝑖𝑓 𝑦𝑜𝑢 ℎ𝑎𝑣𝑒 𝑠𝑎𝑚𝑒 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝑖𝑛𝑔 𝑜𝑟 𝑠𝑜𝑚𝑒 𝑞𝑢𝑒𝑠𝑡𝑖𝑜𝑛𝑠!
 
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/naohito___t)&nbsp;
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/localhost.naohito/)&nbsp;&nbsp;
