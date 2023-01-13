@@ -1,3 +1,37 @@
+<link href='https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:ital@1&display=swap' rel='stylesheet' />
+
+<style>
+summary {
+  font-family: 'Bebas Neue', sans-serif;
+}
+
+.summary {
+  font-size: 20px
+}
+</style>
+
+<!--
+**naohito-T/naohito-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+naohito-T....;From+Tokyo,+Japan&center=true&size=30">
+  </a>
+</h1>
+
+
 <p align="left">
   <a href="https://github.com/naohito-T/naohito-T/">
     <img src="https://komarev.com/ghpvc/?username=naohito-T" alt="naohito-T" />
@@ -22,30 +56,7 @@
   </a>
 </p>
 
-```sh
-###############################################################################################################
-################################          Welcome to nahito-T Project          ################################
-###############################################################################################################
-```
 
-
-
-### Hi there 👋
-
-<!--
-**naohito-T/naohito-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 For work-related or any other requests, please feel free to contact[naohitot523@gmail.com]
 
@@ -77,31 +88,26 @@ Hobbys: animation
 [https://zenn.dev/naohito_t](https://zenn.dev/naohito_t)
 -->
 
-```sh
-###############################################################################################################
-################################        Status and accumulated skills        ##################################
-###############################################################################################################
-```
 
-## 🔱  Git Stats
-
-<div style="margin-bottom: 10px;">
-  <a href="https://github-profile-trophy.vercel.app">
-    <img src="https://github-profile-trophy.vercel.app/?username=naohito-T&column=7&theme=onedark&no-frame=true&margin-w=10" />
-  </a>
-</div>
-
-<br/>
-<div style="margin-top: 10px;">
-  <!--  これ積み重ねのやつ  -->
-  <a href="http://github-readme-streak-stats.herokuapp.com">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=naohito-T&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-  <!--  MostUsed Language  -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naohito-T&theme=tokyonight&hide_border=true&hide=JavaScript,%20SCSS" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=naohito-T&count_private=true&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
+<details>
+  <summary class="summary">🔱 GitHub Stats</summary>
+  <div style="margin-bottom: 10px;">
+    <a href="https://github-profile-trophy.vercel.app">
+      <img src="https://github-profile-trophy.vercel.app/?username=naohito-T&column=7&theme=onedark&no-frame=true&margin-w=10" />
+    </a>
+  </div>
+  <br/>
+  <div style="margin-top: 10px;">
+    <!--  これ積み重ねのやつ  -->
+    <a href="http://github-readme-streak-stats.herokuapp.com">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=naohito-T&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </a>
+    <!--  MostUsed Language  -->
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naohito-T&theme=tokyonight&hide_border=true&hide=JavaScript,%20SCSS" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=naohito-T&count_private=true&theme=tokyonight&hide_border=true" />
+    </a>
+  </div>
+</details>
