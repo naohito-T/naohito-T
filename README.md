@@ -1,5 +1,6 @@
+<head>
 <link href='https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:ital@1&display=swap' rel='stylesheet' />
-<link href="https://github.com/naohito-T/naohito-T/style/main.css" rel="stylesheet" />
+</head>
 
 <!--
 **naohito-T/naohito-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -81,7 +82,7 @@ Hobbys: animation
 
 
 <details>
-  <summary style="font-family: 'Bebas Neue', sans-serif;font-size: 20px">🔱 GitHub Stats</summary>
+  <summary style="font-family: Bebas Neue, sans-serif; font-size: 20px">🔱 GitHub Stats</summary>
   <div style="margin-bottom: 10px;">
     <a href="https://github-profile-trophy.vercel.app">
       <img src="https://github-profile-trophy.vercel.app/?username=naohito-T&column=7&theme=onedark&no-frame=true&margin-w=10" />
