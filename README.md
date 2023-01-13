@@ -1,5 +1,5 @@
 <link href='https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:ital@1&display=swap' rel='stylesheet' />
-<link href="./style/main.css" rel="stylesheet"></link>
+<link href="https://github.com/naohito-T/naohito-T/style/main.css" rel="stylesheet"></link>
 
 <!--
 **naohito-T/naohito-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
