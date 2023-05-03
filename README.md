@@ -90,7 +90,7 @@ Click here for each item
 
 - 🗽 Portfolio:&nbsp;&nbsp; WIP
 - 📈 My Blog:&nbsp;&nbsp;[moderato](https://moderato.vercel.app/)
-- 📕 Knowledge book:&nbsp;&nbsp;[Naopedia](https://naohito-t.github.io/naopedia/)
+- 📕 Knowledge book:&nbsp;&nbsp;[naopedia](https://naopedia.netlify.app/)
 
 ### 🌱 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐎𝐒𝐒
 
