@@ -77,13 +77,15 @@ Hobbys: animation
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-000?&logo=rubyonrails&logoColor=D30001)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 <!-- relation DB -->
-![MySQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
+![Oracle Database](https://img.shields.io/badge/-Oracle_Database-000?&logo=oracle&logoColor=c74634)
 <!-- NoSQL -->
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-000?&logo=amazondynamodb&logoColor=4053D6)
 <!-- ORM -->
-
+<!-- CI -->
+<!-- ![DynamoDB](https://img.shields.io/badge/-DynamoDB-000?&logo=circleci&logoColor=4053D6) -->
 <!-- infrastructure -->
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
