@@ -61,12 +61,12 @@ Hobbys: animation
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Golang](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![Ruby](https://img.shields.io/badge/-ruby-000?&logo=ruby&logoColor=D91404)
 ![PHP](https://img.shields.io/badge/-php-000?&logo=php)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=e66b00)
 <!-- ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift) -->
 <!-- Framework -->
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
@@ -74,13 +74,14 @@ Hobbys: animation
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js)
 ![Express.js](https://img.shields.io/badge/-Express-000?&logo=Express)
-![Ruby on Rails](https://img.shields.io/badge/-Rails-000?&logo=rubyonrails&logoColor=D30001)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-000?&logo=rubyonrails&logoColor=D30001)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 <!-- relation DB -->
 ![MySQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 <!-- NoSQL -->
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-000?&logo=amazondynamodb&logoColor=4053D6)
 <!-- ORM -->
 
 <!-- infrastructure -->
