@@ -15,8 +15,6 @@
 link - in the prodcess of writing🙇
 ## 🍀  Skill
 
-
-
 in the prodcess of writing🙇
 
 Hobbys: animation
@@ -58,27 +56,43 @@ Hobbys: animation
 
 <!-- https://shields.io/ -->
 <!-- https://simpleicons.org/ -->
+<!-- program -->
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Golang](https://img.shields.io/badge/-Go-000?&logo=Go)
+![Ruby](https://img.shields.io/badge/-ruby-000?&logo=ruby&logoColor=D91404)
+![PHP](https://img.shields.io/badge/-php-000?&logo=php)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+<!-- ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift) -->
+<!-- Framework -->
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+![Express.js](https://img.shields.io/badge/-Express-000?&logo=Express)
+![Ruby on Rails](https://img.shields.io/badge/-Rails-000?&logo=rubyonrails&logoColor=D30001)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+<!-- relation DB -->
+![MySQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
+<!-- NoSQL -->
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+<!-- ORM -->
+
+<!-- infrastructure -->
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+<!-- OS -->
+<!-- ![macOS](https://img.shields.io/badge/-macOS-000?&logo=macOS)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) -->
+<!-- Editor -->
+<!-- ![VSCode](https://img.shields.io/badge/-VScode-000?&logo=visualstudiocode&logoColor=007ACC)
+![JetBrains](https://img.shields.io/badge/-JetBrains-000?&logo=intellijidea&logoColor=000) -->
 
 ### 🔭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 𝐰𝐢𝐭𝐡 𝐌𝐲 𝐖𝐨𝐫𝐤
 
