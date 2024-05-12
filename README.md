@@ -131,8 +131,8 @@ Click here for each item
 
 contact me if you have same interesting or some questions!
 
-[<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>X</title><path d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"/></svg>](https://twitter.com/naohito___t)&nbsp;
-<!-- [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/naohito___t)&nbsp; -->
+<!-- [<img src="https://img.shields.io/badge/-X-000?&logo=x&logoColor=000000"/>](https://twitter.com/naohito___t)&nbsp; -->
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/naohito___t)&nbsp;
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/localhost.naohito/)&nbsp;&nbsp;
 <a href="mailto:naohito.tanaka0523@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
