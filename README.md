@@ -87,6 +87,12 @@ Hobbys: animation
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=auth0&logoColor=EB5424)
 <!-- test -->
+![Jest](https://img.shields.io/badge/-Jest-000?&logo=jest&logoColor=C21325)
+![Chromatic](https://img.shields.io/badge/-Chromatic-000?&logo=chromatic&logoColor=FC521F)
+![Playwright](https://img.shields.io/badge/-Playwright-000?&logo=playwright&logoColor=2EAD33)
+![Selenium](https://img.shields.io/badge/-Selenium-000?&logo=selenium&logoColor=43B02A)
+![Apache JMeter](https://img.shields.io/badge/-ApacheJMeter-000?&logo=apachejmeter&logoColor=D22128)
+![k6](https://img.shields.io/badge/-k6-000?&logo=k6&logoColor=7D64FF)
 
 <!-- relation DB -->
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
