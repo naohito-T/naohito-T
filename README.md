@@ -57,6 +57,8 @@ Hobbys: animation
 <!-- https://shields.io/ -->
 <!-- https://simpleicons.org/ -->
 <!-- program -->
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=1572B6)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -69,6 +71,7 @@ Hobbys: animation
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=e66b00)
 <!-- ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift) -->
 <!-- Framework -->
+![Sass](https://img.shields.io/badge/-Sass-000?&logo=sass&logoColor=CC6699)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap&logoColor=7952B3)
 ![Bulma](https://img.shields.io/badge/-Bulma-000?&logo=bulma&logoColor=00D1B2)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
@@ -80,8 +83,11 @@ Hobbys: animation
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-000?&logo=rubyonrails&logoColor=D30001)
 ![CakePHP](https://img.shields.io/badge/-CakePHP-000?&logo=cakephp&logoColor=D33C43)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel&logoColor=FF2D20)
+![Django](https://img.shields.io/badge/-Django-000?&logo=django&logoColor=092E20)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=auth0&logoColor=EB5424)
+<!-- test -->
+
 <!-- relation DB -->
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
@@ -125,7 +131,8 @@ Click here for each item
 
 contact me if you have same interesting or some questions!
 
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/naohito___t)&nbsp;
+[<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>X</title><path d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"/></svg>](https://twitter.com/naohito___t)&nbsp;
+<!-- [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/naohito___t)&nbsp; -->
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/localhost.naohito/)&nbsp;&nbsp;
 <a href="mailto:naohito.tanaka0523@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
