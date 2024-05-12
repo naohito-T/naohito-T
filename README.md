@@ -69,13 +69,19 @@ Hobbys: animation
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=e66b00)
 <!-- ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift) -->
 <!-- Framework -->
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap&logoColor=7952B3)
+![Bulma](https://img.shields.io/badge/-Bulma-000?&logo=bulma&logoColor=00D1B2)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js)
+![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=chartdotjs&logoColor=FF6384)
 ![Express.js](https://img.shields.io/badge/-Express-000?&logo=Express)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-000?&logo=rubyonrails&logoColor=D30001)
+![CakePHP](https://img.shields.io/badge/-CakePHP-000?&logo=cakephp&logoColor=D33C43)
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel&logoColor=FF2D20)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=auth0&logoColor=EB5424)
 <!-- relation DB -->
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
@@ -88,8 +94,10 @@ Hobbys: animation
 <!-- ![DynamoDB](https://img.shields.io/badge/-DynamoDB-000?&logo=circleci&logoColor=4053D6) -->
 <!-- infrastructure -->
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Serverless](https://img.shields.io/badge/-serverless-000?&logo=serverless&logoColor=FD5750)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+<!-- ![Cloudflare](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) -->
 <!-- OS -->
 <!-- ![macOS](https://img.shields.io/badge/-macOS-000?&logo=macOS)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) -->
